@@ -16,5 +16,5 @@ The clock displays the current **hour, minute, and second** in real-time, updati
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
+   git clone https://github.com/Dayoxx/digital-clock.git
    cd digital-clock
